@@ -1,0 +1,26 @@
+body{
+  background-image: url('../assets/img/adminbg.jpeg');
+}
+.procard{
+  border-radius: 10px;
+  border:2px solid #C7CBE8 ;
+  box-shadow:0 0 30px #1B237E;
+  background-color: #3F50B6;
+ 
+}
+.card-header h4{
+  text-align: center;
+  font-size: 36px;
+  color: #464646;
+}
+.txtinput{
+  border: 2px solid #C7CBE8;
+}
+.lbl{
+  color: #474747;
+  font-weight: 500;
+}
+.submit_btn{
+  background-color: #1B76D1;
+  color: #fff;
+}

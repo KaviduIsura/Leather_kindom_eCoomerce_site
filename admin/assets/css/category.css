@@ -1,0 +1,38 @@
+body{
+  background-image: url('assets/img/adminbg.jpeg');
+}
+.tablecat{
+  border-radius: 5px;
+  
+}
+.tablecat th{
+  color: #1B237E;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.tablecat tr{
+  background-color: #C7CBE8;
+  text-align: center;
+}
+.catcard{
+  border-radius: 10px;
+  border:2px solid #C7CBE8 ;
+  box-shadow:0 0 30px #1B237E;
+  background-color: #3F50B6;
+ 
+}
+.card-header h4{
+  text-align: center;
+  font-size: 36px;
+  color: #464646;
+}
+.btnedit{
+  background-color: #43A6F6;
+  color: #fff;
+
+}
+.category_delete_btn{
+  background-color: #1B76D1;
+  color: #fff;
+}

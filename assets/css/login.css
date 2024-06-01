@@ -1,0 +1,73 @@
+body{
+  
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+  background: url('../img/loginbody.jpg');
+  background-size:cover;
+  background-position:center;
+  
+}
+
+.card{
+  position:relative;
+  width:500px;
+  height:600px;
+  background:transparent;
+  border:2px solid #08D0E6 ;
+  backdrop-filter:blur(20px);
+  border-radius:20px;
+  backdrop-filter:blur(20px);
+  box-shadow:0 0 30px #08D0E6;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+  
+}
+.card-header{
+  width:100%;
+  padding:40px;
+}
+#info{
+  color:#fff;
+  text-align: center;
+  margin-top: 15px;
+
+}
+
+
+.btnlog{
+  width:100%;
+  height:45px;
+  background:#162938;
+  border: none;
+  outline:none;
+  border-radius:6px;
+  cursor: pointer;
+  font-size:18px;
+  font-weight: 500;
+  color:#fff;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.hlogin{
+  text-align: center;
+  font-weight: bold;
+  font-size:30px;
+  color: aliceblue;
+}
+
+.input-box label{
+  color: azure;
+  margin-top: 12px;
+  font-size: 18px;
+  
+}
+.input-box-register{
+  color: azure;
+  margin-top: 12px;
+  font-size: 18px;
+
+}
